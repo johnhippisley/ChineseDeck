@@ -36,7 +36,7 @@ Get Anki  <a href="https://apps.ankiweb.net">here</a>
 
 ## Info
 
-The cards are tagged for organization. Categories include HSK1 - HSK6, as well as the core & supplemental vocabulary lists from <i> Chinese Link:Level 1<i>, <i>Chinese Link: Level 2</i>, and <i>All Things Considered.</i>
+The cards are tagged for organization. Categories include HSK1 - HSK6, as well as the core & supplemental vocabulary lists from <i> Chinese Link:Level 1</i>, <i>Chinese Link: Level 2</i>, and <i>All Things Considered.</i>
 
 
 All of the media is included in the deck, so there's no need for any plugins.
