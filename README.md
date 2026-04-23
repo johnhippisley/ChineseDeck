@@ -11,21 +11,21 @@ A media-rich Anki deck for learning Chinese vocabulary.
 - Example sentences
 - Images
 - Stroke order animations
-- 5,716 of the most common words and patterns
+- 5,716 cards of the most common Chinese words and patterns
 
 ---
 
 ## Screenshots
 
-<table align="center" style="border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse; margin: 0 auto; border: 1px solid transparent;">
   <tr>
-    <td align="center" style="padding: 0 24px;">
-      <img src="media/mobile.png" alt="Mobile view" width="260"><br>
-      <sub>Flashcards on Anki Mobile</sub>
+    <td align="center" valign="middle" style="width: 340px; padding: 28px 20px 20px 20px; border-right: 1px solid transparent;">
+      <img src="media/mobile.png" alt="Mobile view" width="220">
+      <div style="margin-top: 14px; font-size: 17px;"><strong>Flashcards on Anki Mobile</strong></div>
     </td>
-    <td align="center" style="padding: 0 24px;">
-      <img src="media/tags.png" alt="Tag structure" width="420"><br>
-      <sub>Tags</sub>
+    <td align="center" valign="middle" style="width: 500px; padding: 28px 20px 20px 20px; border-right: 1px solid transparent;">
+      <img src="media/tags.png" alt="Tag structure" width="380">
+      <div style="margin-top: 14px; font-size: 17px;"><strong>Some of the included tags</strong></div>
     </td>
   </tr>
 </table>
