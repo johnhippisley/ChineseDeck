@@ -17,15 +17,15 @@ A media-rich Anki deck for learning Chinese vocabulary.
 
 ## Screenshots
 
-<table align="center">
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 0 24px;">
       <img src="media/mobile.png" alt="Mobile view" width="260"><br>
-      <sub>Mobile view</sub>
+      <sub>Flashcards on Anki Mobile</sub>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 0 24px;">
       <img src="media/tags.png" alt="Tag structure" width="420"><br>
-      <sub>Tag structure</sub>
+      <sub>Tags</sub>
     </td>
   </tr>
 </table>
@@ -43,7 +43,7 @@ I recommend starting with all cards suspended, then gradually unsuspending cards
 ## Demo
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/johnhippisley/ChineseDeck/main/media/demonstration.mp4">
-    <img src="media/demo-thumb.png" alt="Watch demo video" width="500">
+  <a href="https://youtu.be/Jl62TedcroQ">
+    <img src="https://img.youtube.com/vi/Jl62TedcroQ/maxresdefault.jpg" alt="Watch demo video" width="500">
   </a>
 </p>
