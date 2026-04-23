@@ -19,15 +19,25 @@ Get Anki  <a href="https://apps.ankiweb.net">here</a>
 
 ## Screenshots
 
-<table align="center" style="border-collapse: collapse; margin: 0 auto; border: 1px solid transparent;">
+<table align="center" style="border-collapse: separate; border-spacing: 24px 28px; margin: 0 auto;">
   <tr>
-    <td align="center" valign="middle" style="width: 340px; padding: 28px 20px 20px 20px; border-right: 1px solid transparent;">
-      <img src="media/mobile.png" alt="Mobile view" width="220">
-      <div style="margin-top: 14px; font-size: 17px;"><strong>Flashcards on Anki Mobile</strong></div>
+    <td align="center" valign="middle" style="width: 340px; padding: 0;">
+      <img src="media/front.png" alt="Front of card" width="300">
+      <div style="margin-top: 14px; font-size: 17px;"><strong>Card front</strong></div>
     </td>
-    <td align="center" valign="middle" style="width: 500px; padding: 28px 20px 20px 20px; border-right: 1px solid transparent;">
-      <img src="media/tags.png" alt="Tag structure" width="380">
-      <div style="margin-top: 14px; font-size: 17px;"><strong>Some of the included tags</strong></div>
+    <td align="center" valign="middle" style="width: 340px; padding: 0;">
+      <img src="media/back.png" alt="Back of card" width="300">
+      <div style="margin-top: 14px; font-size: 17px;"><strong>Card back</strong></div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" style="width: 340px; padding: 0;">
+      <img src="media/mobile.png" alt="Mobile view" width="220">
+      <div style="margin-top: 14px; font-size: 17px;"><strong>Flashcards on Anki Mobile (iPhone) </strong></div>
+    </td>
+    <td align="center" valign="middle" style="width: 340px; padding: 0;">
+      <img src="media/tags.png" alt="Tag structure" width="300">
+      <div style="margin-top: 14px; font-size: 17px;"><strong>Some of the the built-in tags</strong></div>
     </td>
   </tr>
 </table>
