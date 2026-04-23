@@ -38,6 +38,8 @@ Cards are organized into various vocabulary lists, including chapters from Chine
 
 I recommend starting with all cards suspended, then gradually unsuspending cards as you go.
 
+Vocabularly lists were digitized with OCR and the AnkiConnect API.   
+
 ---
 
 ## Demo
