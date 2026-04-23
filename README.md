@@ -1,8 +1,10 @@
 # ChineseDeck
 
 A media-rich Anki deck for learning Chinese vocabulary.
-Download it <a href="https://drive.google.com/file/d/1Q2FrH8AYSKO1-I5Xh8TcKraBLUU7z6VL/view?usp=sharing"> here </a>
 ---
+
+Download the deck Download it <a href="https://drive.google.com/file/d/1Q2FrH8AYSKO1-I5Xh8TcKraBLUU7z6VL/view?usp=sharing"> here </a>
+Get Anki  <a href="https://apps.ankiweb.net">here</a>
 
 ## Features
 
