@@ -46,10 +46,13 @@ I hope you find it useful!
 
 ---
 
-## Demo
+## Video Demo
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=WjRf3AApQco">
     <img src="https://img.youtube.com/vi/WjRf3AApQco/maxresdefault.jpg" alt="Watch demo video" width="500">
   </a>
 </p>
+
+
+Click to watch on YouTube. 
