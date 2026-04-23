@@ -36,7 +36,9 @@ Get Anki  <a href="https://apps.ankiweb.net">here</a>
 
 ## Info
 
-The cards are organized into different vocabulary lists, including chapters from Chinese Link Part 1 & 2 and All Things Considered, HSK 1–6 and several other categories.<br>
+The cards are organized into different vocabulary lists, including chapters from Chinese Link Part 1 & 2 and All Things Considered, HSK 1–6 and several other categories.
+
+
 All of the media is included in the deck, so there's no need for any plugins.
 
 I recommend starting with all cards suspended and then gradually unsuspending them as you go.
