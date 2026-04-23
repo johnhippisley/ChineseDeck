@@ -13,7 +13,7 @@ Get Anki  <a href="https://apps.ankiweb.net">here</a>
 - Example sentences
 - Images
 - Stroke order animations
-- 5,716 cards of the most common Chinese words and patterns
+- 5,716 of the most common Chinese words and patterns
 
 ---
 
