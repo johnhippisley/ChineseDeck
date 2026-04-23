@@ -34,9 +34,9 @@ Download it <a href="https://drive.google.com/file/d/1Q2FrH8AYSKO1-I5Xh8TcKraBLU
 
 ## Info
 
-Cards are organized into various vocabulary lists, including chapters from Chinese Link Part 1 & 2 and All Things Considered. They are also organized into HSK 1–6 and several other categories.
-I recommend starting with all cards suspended and then gradually unsuspending cards as you go.
-All media is included in the deck, so need for any plugins, also. 
+The cards are organized into various vocabulary lists, including chapters from Chinese Link Part 1 & 2 and All Things Considered. They are also organized into HSK 1–6 and several other categories.
+I recommend starting with all cards suspended and then gradually unsuspending them as you go.
+All of the media is included in the deck, so there's no need for any plugins. 
 I hope you find it useful! 
 
 ---
