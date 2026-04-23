@@ -37,7 +37,7 @@ Get Anki  <a href="https://apps.ankiweb.net">here</a>
     </td>
     <td align="center" valign="middle" style="width: 340px; padding: 0;">
       <img src="media/tags.png" alt="Tag structure" width="300">
-      <div style="margin-top: 14px; font-size: 17px;"><strong>Some of the the built-in tags</strong></div>
+      <div style="margin-top: 14px; font-size: 17px;"><strong>Some of the built-in tags</strong></div>
     </td>
   </tr>
 </table>
