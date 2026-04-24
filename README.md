@@ -1,4 +1,4 @@
-# ChineseDeck
+# chinesedeck
 
 A media-rich Anki deck for learning Chinese vocabulary.
 ---
