@@ -1,9 +1,9 @@
 # chinesedeck
 
-A media-rich Anki deck for learning Chinese vocabulary.
+Anki deck for Mandarin Chinese
 ---
 
-Download the deck <a href="https://drive.google.com/file/d/1Q2FrH8AYSKO1-I5Xh8TcKraBLUU7z6VL/view?usp=sharing"> here </a><br>
+Download the deck <a href="https://drive.google.com/file/d/1D29se58e82nqylmLrHKmUttNYtunzb1E/view?usp=sharing"> here </a><br>
 Get Anki  <a href="https://apps.ankiweb.net">here</a>
 
 ## Features
@@ -13,7 +13,7 @@ Get Anki  <a href="https://apps.ankiweb.net">here</a>
 - Example sentences
 - Images
 - Stroke order animations
-- 5,716 of the most common Chinese words and patterns
+- 6,005 of the most common Chinese words and patterns
 
 ---
 
